@@ -1,0 +1,17 @@
+body{
+    font-family: 'Beau Rivage', cursive;
+    text-align: center;
+    font-size: 27px;
+    background-image: linear-gradient(to left top, #a0ff8e, #52f9b7, #00eedc, #00e0f5, #00cfff, #17cfff, #23cfff, #2ccfff, #00e0f5, #30ede0, #74f8c4, #afffa8);
+}
+#sus
+{
+    background-image: linear-gradient(to right top, #6ef898, #98bc56, #968438, #7a532f, #4c2d26, #4c2d26, #4c2d26, #4c2d26, #7a532f, #968438, #98bc56, #6ef898);
+}
+ul
+{
+    margin-left: 20px;
+    margin-right: 24px;
+    text-align: right;
+    /* mam how do I set it to right */
+}
